@@ -3,7 +3,7 @@
 - I conducted an analysis to check on the impact the trial experiment had on % qualification of loans, % loan repayment, and % default rate.
 - From the analysis, greatest impact on qualification was from Chwele (4.7% decrease), greatest impact on repayment rate was on Chwele and Bungoma regions (decrease of 5.1% and 5.6% respectively), and greatest impact on default rate was on Chwele and Bungoma regions (increase of 5.1% and 5.6%).
 - Further analysis of the loans spread at Chwele and Bungoma shows that most loans taken are below Kes. 25,000.
-- # Conclusions
+# Conclusions
   1. The 10% repayment was successful in Lugari region, since the qualification, default, and repayment rates have remained unchanged. Lugari should be carefully studied to see the features of farmers in the district and used to understand why the strategy was greatly adopted. 
   2. The strategy affects the number of farmers who are qualified for the adoption of the loans in Chwele district.
   3. The strategy also affects default & loan repayment rates in Chwele and Bungoma districts.

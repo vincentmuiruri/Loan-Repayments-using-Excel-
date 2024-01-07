@@ -1,4 +1,4 @@
-# Loan-Repayments-using-Excel-
+# Loan Repayments using Excel
 - This report contains data from a trial conducted on farmers loan repayments across three districts namely lugari, chwele, and bungoma. The trials were from an experiment regarding the adoption of a new strategy requiring farmers to pay about 10% of their total transaction within the first year should be scaled up or not. The 2019 data was before the experiment while 2020 was after the experiment. 
 - I conducted an analysis to check on the impact the trial experiment had on % qualification of loans, % loan repayment, and % default rate.
 - From the analysis, greatest impact on qualification was from Chwele (4.7% decrease), greatest impact on repayment rate was on Chwele and Bungoma regions (decrease of 5.1% and 5.6% respectively), and greatest impact on default rate was on Chwele and Bungoma regions (increase of 5.1% and 5.6%).

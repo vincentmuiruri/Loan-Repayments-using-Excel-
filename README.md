@@ -9,3 +9,5 @@
   3. The strategy also affects default & loan repayment rates in Chwele and Bungoma districts.
   4. Therefore, further research especially behavioral on the farmers is needed to understand more insights on how to make the strategy successful and efficient in Chwele and Bungoma as is the case in Lugari district.
   5. The study should be specific on the farmers taking loans below Kes. 25,000. 
+ # Credits for the Data
+ - I got the data from Kaggle webiste using the following link: https://www.kaggle.com/datasets/amandam1/breastcancerdataset

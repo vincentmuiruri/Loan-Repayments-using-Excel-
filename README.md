@@ -10,4 +10,9 @@
   4. Therefore, further research especially behavioral on the farmers is needed to understand more insights on how to make the strategy successful and efficient in Chwele and Bungoma as is the case in Lugari district.
   5. The study should be specific on the farmers taking loans below Kes. 25,000. 
  # Credits for the Data
- - I got the data from Kaggle webiste using the following link: https://www.kaggle.com/datasets/amandam1/breastcancerdataset
+ - I got the data from One Acre Fund (OAF):
+
+ # Dahsboard
+ - The dashboard that I did is as below:
+![image](https://github.com/user-attachments/assets/f0c22c84-6238-41a0-9ef1-a4528164b675)
+
